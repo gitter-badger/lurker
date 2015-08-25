@@ -1,5 +1,7 @@
 # Lurker
 
+[![Join the chat at https://gitter.im/razum2um/lurker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/razum2um/lurker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <img align="right" width="94" height="71" src="https://cdn.rawgit.com/razum2um/lurker/master/lurker-bw.svg">
 
 Generates API schemas, validates code against them and creates a handy web interface for testing the API.
